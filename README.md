@@ -1,5 +1,11 @@
 ## Bem-vindo(a) ao meu perfil 😁
 
+Meu nome é Fellipe Almeida e atualmente curso Análise e Desenvolvimento de Sistemas no IFCE.
+
+Possuo conhecimentos práticos em Docker, Python, PostgreSQL, FastAPI e Git. Tendo já participado de projetos em que envolvesse o back-end de grandes aplicações.
+
+Meu projeto mais relevante no momento (em construção), é um sistema de gestão financeira, onde vai incluir tudo o que um sistema web precisa. API, banco de dados, interfaces interativas e integração entre todas essas tecnologias.
+
  <div>
    <a href="https://github.com/FellipeAlmeida">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FellipeAlmeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
