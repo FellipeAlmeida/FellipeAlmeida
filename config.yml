@@ -1,0 +1,88 @@
+# Galaxy Profile README Configuration
+
+username: FellipeAlmeida
+
+profile:
+  name: "Fellipe Almeida"
+  tagline: "Backend Developer | Python & APIs"
+  company: "System Analysis and Development Student"
+  location: "Brazil"
+  bio: |
+    Backend developer focused on building REST APIs using Python, Flask, FastAPI, Express, Node.js, Javascript.
+    I enjoy creating practical systems, automations and tools that solve real problems.
+
+    Currently studying System Analysis and Development (ADS) and working with
+    backend development and integrations.
+  philosophy: '"Code should solve problems in the simplest and most reliable way possible."'
+
+social:
+  email: "almeidafellipe237@gmail.com"
+  linkedin: "https://www.linkedin.com/in/fellipe-almeida-143923298/"
+  #website: ""
+
+galaxy_arms:
+  - name: "Backend Development"
+    color: "synapse_cyan"
+    items:
+      - "Python"
+      - "Flask"
+      - "REST APIs"
+      - "PostgreSQL"
+      - "FasAPI"
+      - "Express"
+      - "Javascript"
+      - "Node.js"
+
+  - name: "Frontend & Web"
+    color: "dendrite_violet"
+    items:
+      #- "Angular"
+      #- "TypeScript"
+      - "JavaScript"
+      - "HTML"
+      - "CSS"
+
+  - name: "DevOps & Tools"
+    color: "axon_amber"
+    items:
+      - "Docker"
+      #- "AWS S3"
+      - "Linux"
+      - "Git"
+      - "GitHub Actions"
+
+projects:
+  - repo: "FellipeAlmeida/Express-API"
+    arm: 0
+    description: "Inventory management system with authentication, roles (admin, stockist ,consult) and product control."
+
+  #- repo: "FellipeAlmeida/api-flask"
+  #  arm: 0
+  #  description: "REST API built with Flask demonstrating authentication, database integration and API design."
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Shell"
+    - "Makefile"
+  max_display: 8
