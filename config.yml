@@ -40,6 +40,7 @@ galaxy_arms:
       - "JavaScript"
       - "HTML"
       - "CSS"
+      - "React"
 
   - name: "DevOps & Tools"
     color: "axon_amber"
@@ -51,9 +52,9 @@ galaxy_arms:
       - "GitHub Actions"
 
 projects:
-  - repo: "FellipeAlmeida/Express-API"
+  - repo: "FellipeAlmeida/Fernanda"
     arm: 0
-    description: "Inventory management system with authentication, roles (admin, stockist ,consult) and product control."
+    description: "Fiscal education Chatbot with user authentication"
 
   #- repo: "FellipeAlmeida/api-flask"
   #  arm: 0
